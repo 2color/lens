@@ -230,7 +230,7 @@ const Footer = ({ newsletterComponent }: any) => (
         </a>
         <a
           className="link"
-          href="https://gist.github.com/nikolasburk/c0f34b0cc50d3403e2e0d40c0e6510aa"
+          href="https://pris.ly/privacy"
         >
           Terms & Privacy
         </a>
